@@ -1,4 +1,4 @@
-<header>
+# <header>
 
 <!--
   <<< Author notes: Course header >>>
@@ -9,9 +9,9 @@
 
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+# _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-</header>
+# </header>
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -23,7 +23,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ## Step 1: Add headers
 
-_Welcome to "Communicate using Markdown"! :wave:_
+# _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
 
@@ -75,6 +75,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+
+I've created more markdowns in this file, enjoy :) !!!
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
